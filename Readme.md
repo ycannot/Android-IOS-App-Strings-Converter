@@ -2,6 +2,7 @@
 *	Author: Yiğit Can YILMAZ					 *
 *	Created on: 11.02.2020						 *
 **************************************************
+
 # Strings Converter
 * This code converts android and IOS strings files to csv and vice versa.
 * Multi-language is supported.
@@ -17,3 +18,6 @@
 3. if you have more than two translation files you can add other languages into *languages* list in *strings_to_csv.py*. (Optional) 
 3. Rename android files as strings_tr.xml and strings_en.xml, IOS files as Localizable_tr.xml and Localizable_en.xml.
 4. Run the strings_converter.bat file.
+
+# Screenshots
+![Screenshot](https://antalyabiorezonans.com/YCY/strings_converter.png)
